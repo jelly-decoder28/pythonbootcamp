@@ -63,7 +63,7 @@ All datasets used in these materials are derived from publicly available data.
 Find answers [here](https://ccb.berkeley.edu/ccb-bioinformatics-bootcamp-january-2022-faq/).
 
 ## Authorship
-Monday-Thursday notebooks and curriculum were developed by [Stacy Li](stacy.li) in Summer 2022, with exercises contributed by PyCamp staff in the years following. Pre-2022 notebooks were developed by previous generations of PyCamp staff. Day 5 notebook was developed Prakruthi Burra (prakruthi_burra@gmail.com) and Carmelle Catamura (carmelle@berkeley.edu)
+Monday-Thursday notebooks and curriculum were developed by [Stacy Li](stacy.li) in Summer 2022, with exercises contributed by PyCamp staff in the years following. Pre-2022 notebooks were developed by previous generations of PyCamp staff. Day 5 notebook was developed by Prakruthi Burra (prakruthi_burra@gmail.com) and Carmelle Catamura (carmelle@berkeley.edu)
 
 ## License
 This repository is licensed under the [CC 4.0 license](https://creativecommons.org/licenses/by/4.0/). You are free to share, redistribute, and adapt these notebooks, although we request that you provide a link to this repository.
