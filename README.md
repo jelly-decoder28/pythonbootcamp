@@ -46,7 +46,7 @@ Each notebook is intended to be a lesson on a particular unit of Python.
 | **Day 2** (Tuesday) | Review basic data structures and methods. Writing custom functions. Introduction to external packages (`numpy`). | [Tuesday AM]() | [Tuesday PM]() | [Day 2 cheatsheet](https://drive.google.com/file/d/1cPx2l9xlnq5eD26J3ePTj4C4k4QURYr-/view?usp=sharing) | [AM solutions]() [PM solutions]() | 
 | **Day 3** (Wednesday) | Review and cover more detail on arrays. Mini-projects on data cleaning, exploration, and basic visualization with the `badhealth` and `hepatocellular` datasets. | [Wednesday AM]() | [Wednesday PM]() | [Day 3 cheatsheet](https://drive.google.com/file/d/1s_DL4l23ihlWRFca5E0odreIUEcvXe7z/view?usp=sharing) | [AM solutions]() [PM solutions]()| 
 | **Day 4** (Thursday) | Introduction to `pandas` operations: indexing, slicing, querying, filtering, merging. Exploration of the `clinvar` dataset.| [Thursday AM](https://drive.google.com/file/d/1asaUFqxyxAB_po7IwqdA0sth6SphybAq/view?usp=sharing) | [Thursday PM](https://drive.google.com/file/d/1cZxkY1fQx-yv0Z2ZU_QQAwN8kRr5pufd/view?usp=sharing) | [Day 4 cheatsheet](https://drive.google.com/file/d/1Fc9Obxer6ymy2gGVrVLJJ7SmVniFy8Rj/view?usp=sharing) | [AM solutions]() [PM solutions]()
-| **Day 5** (Friday) | Intro to ML | [Friday AM+PM](https://drive.google.com/file/d/1EoHs5dQL7nq7d1WGOfxBZapk8V9Yr2nH/view?usp=sharing) | | [Day 5 cheatsheet]() | [AM+PM] solutions()
+| **Day 5** (Friday) | Introduction to Machine Learning and running Python locally | [Friday AM+PM](https://drive.google.com/file/d/1EoHs5dQL7nq7d1WGOfxBZapk8V9Yr2nH/view?usp=sharing) | | [Day 5 cheatsheet]() | [AM+PM solutions]()
 
 ## Datasets
 All datasets used in these materials are derived from publicly available data.
