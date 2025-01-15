@@ -26,7 +26,8 @@ Link to the zoom is [here](https://berkeley.zoom.us/j/92092223275). Lectures are
 | Day | Zoom recording | password |
 | ---- | ------ | ------ |
 | Monday | [recording 1](https://berkeley.zoom.us/rec/share/RDRo5HyENswNjwEnNFaRHl3QZ57dIPKRMrnyPO4lZeplLPwXHIC4zIJIF41nfA8m.vWpk7gDrTgMDng_M); [recording 2](https://berkeley.zoom.us/rec/share/rz-Be7FUBTvVU9mUuAoq6tjp5Z2SLCNWJ6n4gUcM3cBvH-UFaqRYMGtZgDR70PFr.BKfFZHvfKt3Xuijq); [recording 3](https://berkeley.zoom.us/rec/share/M-pb_R8cigbEjGzlz1ksWjc1cHAGxkYHpZCSLdKwr3JJC5J54jcO7DaJlg_bqr43.FGGXWUxDSdsKQ_rX)| recording 1:```$siQ?r0^``` ; recording 2:```%K*b1B7O```; recording 3:```x@LSzn1*```  
-| Tuesday | [link]() | 
+| Tuesday | [recording](https://berkeley.zoom.us/rec/share/4npU3ifx5kK7e2YlsoW0GsGhDELXdaOxIOAj8DwLhXw7rN5YBE3QfviFuE7fg3Y.G0JqLrr19R6gHLA9
+) | S@!82Tl3
 | Wednesday | [link]()| 
 | Thursday | [link]() | 
 | Friday | [link]() | 
