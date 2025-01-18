@@ -1,4 +1,4 @@
-# CCB Python Bootcamp ("PyCamp") 🐍
+# Center for Computational Biology (CCB) Python Bootcamp ("PyCamp") 🐍
 ## A biannual introductory workshop to using Python for bioinformatics
 
 Presented by the [Center for Computational Biology](https://ccb.berkeley.edu/). Please contact `ccbadmin(at)berkeley.edu` for all questions.
